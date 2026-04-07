@@ -19,23 +19,12 @@ This repository contains various documents related to the operational framework 
 <br/>
 <hr/>
 
-<table align="center" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td align="center" valign="top" style="padding: 0 22px; border: 0;">
-      <sub>A Cross-ARC Research Program of</sub><br/>
-      <img src="assets/logo/research_thealtern.svg" height="54" alt="The Altern Research"/>
-    </td>
-
-    <td align="center" valign="middle" style="padding: 0 18px; border: 0;">
-      <sub>supported by</sub>
-    </td>
-
-    <td align="center" valign="top" style="padding: 0 22px; border: 0;">
-      <sub>&nbsp;</sub><br/>
-      <img src="assets/logo/arc_ami.svg" height="54" alt="Arc AMI"/>
-    </td>
-  </tr>
-</table>
+<p align="center"><sub>A Cross-ARC Research Program of</sub></p>
+<p align="center">
+  <img src="assets/logo/research_thealtern.svg" height="54" alt="The Altern Research"/>
+  &nbsp;&nbsp;&nbsp;<sub>supported by</sub>&nbsp;&nbsp;&nbsp;
+  <img src="assets/logo/arc_ami.svg" height="54" alt="Arc AMI"/>
+</p>
 
 <p align="center">
   <sub>© Project IMACE · Open Research Initiative</sub>
