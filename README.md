@@ -1,4 +1,7 @@
-# Project IMACE : Documentation
+# Project IMACE : CHARTER Documentation
+<p align="center">
+  <img src="assets/media/imace_charter.gif" width="100%"/>
+</p>
 
 This repository contains various documents related to the operational framework of [Project IMACE](https://imace.online)
 
