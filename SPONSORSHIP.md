@@ -1,137 +1,169 @@
-# Sponsorship
+<h1 align="center">Project IMACE Sponsorship</h1>
 
-Project IMACE welcomes sponsorship and support from individuals, organizations, labs, institutions, and research collectives that wish to contribute to its multidisciplinary research mission.
+<p align="center">
+  <em>Supporting Open Research in Cognitive Emulation</em>
+</p>
 
-Sponsorship supports research activity, infrastructure, experimentation, and collaboration. It does not confer ownership, governance authority, or control over Project IMACE.
-
----
-
-## 1. Purpose
-
-Project IMACE may accept sponsorship in the form of:
-
-- financial support for research and infrastructure  
-- compute and cloud resources (CPU, GPU, VPS, ML infrastructure)  
-- hardware or machine access  
-- access to databases, repositories, and research tools  
-- support for research studies and programs  
-- volunteering and research participation  
-- junior and senior research internships  
-- domain-specific collaboration and lab support  
+<p align="center">
+  <strong>Infrastructure · Research · Collaboration · Community</strong>
+</p>
 
 ---
 
-## 2. Types of Support
+<p align="center">
+Project IMACE welcomes sponsorship and support from individuals, organizations, labs, institutions, and research collectives contributing to its multidisciplinary research mission.
+</p>
 
-### Financial Support
-Funding for research, infrastructure, experimentation, and development.
-
-### Compute and Infrastructure
-Cloud, VPS, GPU/CPU, storage, ML environments, and deployment support.
-
-### Hardware and Machine Access
-Physical hardware, lab systems, and specialized devices.
-
-### Research and Collaboration Support
-Domain expertise, lab collaboration, advisory input, and interdisciplinary assistance.
-
-### Volunteer and Internship Support
-Research volunteers and interns contributing to ongoing projects.
-
-### Access Support
-Access to:
-
-- research databases  
-- licensed libraries  
-- restricted repositories  
-- specialized tools  
+<p align="center">
+<sub>Sponsorship enables research, infrastructure, experimentation, and collaboration.<br/>
+It does not confer ownership, governance authority, or control.</sub>
+</p>
 
 ---
 
-## 3. Principles
+## ✦ Purpose
 
-All sponsorship must follow:
+<p align="center">
+Support Project IMACE through diverse contributions across research, infrastructure, and ecosystem development.
+</p>
 
-- no transfer of ownership  
-- no governance control  
-- no influence over official decisions  
-- alignment with Project IMACE research scope  
-- preservation of independence and integrity  
-
----
-
-## 4. Recognition
-
-Project IMACE acknowledges sponsors through:
-
-- public acknowledgments  
-- repository or website mentions  
-- newsletter recognition  
-- project updates and reports  
-
-Sponsors may receive:
-
-- bi-monthly newsletters  
-- early research updates  
-- project progress insights  
-
-Recognition does not imply endorsement or authority.
+<ul>
+<li>Financial support for research and infrastructure</li>
+<li>Compute and cloud resources (CPU, GPU, VPS, ML systems)</li>
+<li>Hardware and machine access</li>
+<li>Access to databases, repositories, and tools</li>
+<li>Support for research studies and programs</li>
+<li>Volunteer and internship participation</li>
+<li>Domain-specific collaboration and lab support</li>
+</ul>
 
 ---
 
-## 5. Participation
+## ✦ Types of Support
 
-Sponsors and supporters may also engage as:
-
-- research volunteers  
-- junior or senior research interns  
-- contributors to documentation, experiments, or systems  
-
-Participation does not grant governance authority.
-
----
-
-## 6. Non-Exclusivity
-
-Sponsorship is non-exclusive.  
-Project IMACE may collaborate with multiple sponsors simultaneously.
-
----
-
-## 7. No Ownership
-
-Sponsorship does not grant:
-
-- ownership of Project IMACE  
-- branding rights  
-- release authority  
-- licensing control  
-- decision-making power  
+<table align="center">
+<tr>
+<td align="center"><strong>Financial</strong><br/><sub>Funding for research, infrastructure, and experimentation</sub></td>
+<td align="center"><strong>Compute</strong><br/><sub>Cloud, GPU/CPU, storage, ML environments</sub></td>
+</tr>
+<tr>
+<td align="center"><strong>Hardware</strong><br/><sub>Machines, lab systems, devices</sub></td>
+<td align="center"><strong>Research</strong><br/><sub>Expertise, collaboration, advisory</sub></td>
+</tr>
+<tr>
+<td align="center"><strong>Participation</strong><br/><sub>Volunteers, interns, contributors</sub></td>
+<td align="center"><strong>Access</strong><br/><sub>Databases, libraries, tools</sub></td>
+</tr>
+</table>
 
 ---
 
-## 8. Review
+## ✦ Principles
 
-All sponsorship arrangements are reviewed by the Project IMACE coordination structure to ensure alignment with project principles.
+<p align="center">
+<sub>
+No ownership · No governance control · No decision influence · Full independence preserved
+</sub>
+</p>
 
----
-
-## 9. Contact
-
-For sponsorship and support inquiries:
-
-- General sponsorship: [sponsor@imace.online](mailto:sponsor@imace.online)  
-- Research requirements and collaboration: [research@imace.online](mailto:research@imace.online)  
-
-For direct coordination:
-
-- Project Research Coordinator: [coordinator@imace.online](mailto:coordinator@imace.online)  
-- Chief Research Organiser (CRO): [cro@imace.online](mailto:cro@imace.online)  
+<ul>
+<li>Alignment with Project IMACE research scope</li>
+<li>Preservation of independence and integrity</li>
+<li>Transparency where appropriate</li>
+</ul>
 
 ---
 
-## 10. Summary
+## ✦ Recognition
 
+<p align="center">
+Project IMACE acknowledges all meaningful support.
+</p>
+
+<ul>
+<li>Public acknowledgments</li>
+<li>Repository and website mentions</li>
+<li>Newsletter recognition</li>
+<li>Project updates and reports</li>
+</ul>
+
+<p align="center">
+<sub>
+Sponsors may receive early research updates, newsletters, and progress insights.
+</sub>
+</p>
+
+---
+
+## ✦ Participation
+
+<p align="center">
+Engage directly in research and development.
+</p>
+
+<ul>
+<li>Research volunteers</li>
+<li>Junior and senior research interns</li>
+<li>Documentation and experiment contributors</li>
+<li>Technical and domain-specific contributors</li>
+</ul>
+
+---
+
+## ✦ Sponsorship Model
+
+<p align="center">
+<sub>
+Non-exclusive · Multi-sponsor ecosystem · Open collaboration
+</sub>
+</p>
+
+---
+
+## ✦ Governance Boundaries
+
+<ul>
+<li>No ownership transfer</li>
+<li>No branding control</li>
+<li>No release authority</li>
+<li>No licensing control</li>
+<li>No decision-making power</li>
+</ul>
+
+<p align="center">
+<strong>Support is welcomed. Authority remains independent.</strong>
+</p>
+
+---
+
+## ✦ Contact
+
+<p align="center">
+<a href="mailto:sponsor@imace.online">
+  <img src="https://img.shields.io/badge/Sponsorship-Contact-blue?style=for-the-badge"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:research@imace.online">
+  <img src="https://img.shields.io/badge/Research-Inquiries-black?style=for-the-badge"/>
+</a>
+</p>
+
+<p align="center">
+<sub>
+Project Research Coordinator: coordinator@imace.online<br/>
+Chief Research Organiser (CRO): cro@imace.online
+</sub>
+</p>
+
+---
+
+## ✦ Summary
+
+<p align="center">
 Project IMACE welcomes support across financial, technical, research, and collaborative domains.
+</p>
 
-All sponsors are acknowledged with gratitude, while governance, authority, and project direction remain independent.
+<p align="center">
+<strong>All contributions are acknowledged with gratitude.</strong><br/>
+<sub>Governance, authority, and direction remain independent.</sub>
+</p>
