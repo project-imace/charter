@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner/imace_affiation.svg" width="100%"/>
+  <img src="assets/banner/imace_affiliation.svg" width="100%"/>
 </p>
 
 # Affiliations
