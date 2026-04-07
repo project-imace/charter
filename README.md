@@ -19,16 +19,20 @@ This repository contains various documents related to the operational framework 
 <br/>
 <hr/>
 
-<table align="center" style="border:none;">
+<table align="center" cellpadding="0" cellspacing="0" border="0">
   <tr>
-    <td align="center" style="border:none; padding: 0 20px;">
+    <td align="center" valign="top" style="padding: 0 22px; border: 0;">
       <sub>A Cross-ARC Research Program of</sub><br/>
-      <img src="assets/logo/research_thealtern.svg" height="55"/>
+      <img src="assets/logo/research_thealtern.svg" height="54" alt="The Altern Research"/>
     </td>
 
-    <td align="center" style="border:none; padding: 0 20px;">
-      <sub>supported by</sub><br/>
-      <img src="assets/logo/arc_ami.svg" height="55"/>
+    <td align="center" valign="middle" style="padding: 0 18px; border: 0;">
+      <sub>supported by</sub>
+    </td>
+
+    <td align="center" valign="top" style="padding: 0 22px; border: 0;">
+      <sub>&nbsp;</sub><br/>
+      <img src="assets/logo/arc_ami.svg" height="54" alt="Arc AMI"/>
     </td>
   </tr>
 </table>
