@@ -1,6 +1,6 @@
 # Project IMACE : Documentation
 
-This repository contains various documents related to the operational framework of Project IMACE [www.imace.online](www.imace.online "Visit the official website of Project IMACE")
+This repository contains various documents related to the operational framework of Project IMACE [www.imace.online](www.imace.online)
 
 ## DOCUMENT
 
