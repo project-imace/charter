@@ -1,4 +1,8 @@
-# Affiliation
+<p align="center">
+  <img src="assets/banner/imace_affiation.svg" width="100%"/>
+</p>
+
+# Affiliations
 
 Project IMACE (Integrated Modular Architecture for Cognitive Emulation) maintains structured affiliations within the broader [THE ALTERN Research](https://research.thealtern.xyz) ecosystem. [Github](github.com/the-altern-research)
 
