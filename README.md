@@ -90,6 +90,19 @@ This repository serves as the authoritative documentation layer for the projectâ
 </p>
 
 ---
+## Explore Policies & Support
+
+<p align="center">
+  <a href="LICENSING.md">
+    <img src="https://img.shields.io/badge/Licensing-View%20Policy-blue?style=for-the-badge" alt="Licensing"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="SPONSORSHIP.md">
+    <img src="https://img.shields.io/badge/Sponsorship-Support%20Project-green?style=for-the-badge" alt="Sponsorship"/>
+  </a>
+</p>
+
+---
 
 ## How to Use This Repository
 
